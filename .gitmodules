@@ -1,0 +1,27 @@
+[submodule "horten"]
+	path = horten
+	url = https://github.com/koopero/horten.git
+[submodule "horten-websocket"]
+	path = horten-websocket
+	url = https://github.com/koopero/horten-websocket.git
+[submodule "deepcolour"]
+	path = deepcolour
+	url = https://github.com/koopero/deepcolour.git
+[submodule "string2png"]
+	path = string2png
+	url = https://github.com/koopero/string2png.git
+[submodule "horten-control"]
+	path = horten-control
+	url = https://github.com/koopero/horten-control.git
+[submodule "horten-server"]
+	path = horten-server
+	url = https://github.com/koopero/horten-server.git
+[submodule "loopin-native"]
+	path = loopin-native
+	url = https://github.com/koopero/loopin-native.git
+[submodule "loopin"]
+	path = loopin
+	url = https://github.com/koopero/loopin.git
+[submodule "loopin-server"]
+	path = loopin-server
+	url = https://github.com/koopero/loopin-server.git
