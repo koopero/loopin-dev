@@ -25,3 +25,6 @@
 [submodule "loopin-server"]
 	path = loopin-server
 	url = https://github.com/koopero/loopin-server.git
+[submodule "loopin-shaders"]
+	path = loopin-shaders
+	url = https://github.com/koopero/loopin-shaders.git
