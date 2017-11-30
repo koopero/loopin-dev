@@ -36,19 +36,31 @@ npm link horten horten-control horten-websocket
 npm link
 cd ..
 
-cd loopin-native
+cd loopin
 npm install
+npm link horten
 npm link
 cd ..
 
-cd loopin
+cd loopin-native
 npm install
-npm link horten loopin-native
-npm link
+npm link loopin
 cd ..
 
 cd loopin-server
 npm install
 npm link horten loopin horten-server
+npm link
+cd ..
+
+cd loopin-shaders
+npm install
+npm link loopin loopin-native
+npm link
+cd ..
+
+cd loopin-test
+npm install
+npm link loopin loopin-native loopin-shaders
 npm link
 cd ..
