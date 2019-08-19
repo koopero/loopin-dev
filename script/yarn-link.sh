@@ -12,6 +12,12 @@ yarn install
 yarn link
 cd ..
 
+cd horten-persist-file
+yarn install
+yarn link horten
+yarn link
+cd ..
+
 cd horten-websocket
 yarn install
 yarn link horten

@@ -12,6 +12,12 @@ npm install
 npm link
 cd ..
 
+cd horten-pers
+npm install
+npm link horten
+npm link
+cd ..
+
 cd horten-websocket
 npm install
 npm link horten
@@ -22,7 +28,6 @@ cd deepcolour
 npm install
 npm link
 cd ..
-
 
 cd horten-control
 npm install

@@ -42,3 +42,6 @@
 	path = loopin-test
 	branch = master
 	url = https://github.com/koopero/loopin-test.git
+[submodule "horten-persist-file"]
+	path = horten-persist-file
+	url = https://github.com/koopero/horten-persist-file
