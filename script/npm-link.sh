@@ -49,7 +49,7 @@ cd ..
 
 cd loopin-native
 npm install
-npm link loopin
+npm link loopin horten
 cd ..
 
 cd loopin-server
