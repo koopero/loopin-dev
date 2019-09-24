@@ -14,6 +14,10 @@
 	path = string2png
 	branch = master
 	url = https://github.com/koopero/string2png.git
+[submodule "embarkdown"]
+	path = embarkdown
+	branch = master
+	url = https://github.com/koopero/embarkdown
 [submodule "horten-control"]
 	path = horten-control
 	branch = master
@@ -45,3 +49,6 @@
 [submodule "embarkdown"]
 	path = embarkdown
 	url = https://github.com/koopero/embarkdown
+[submodule "horten-persist-file"]
+	path = horten-persist-file
+	url = https://github.com/koopero/horten-persist-file

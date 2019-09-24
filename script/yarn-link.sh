@@ -12,6 +12,12 @@ yarn install
 yarn link
 cd ..
 
+cd horten-persist-file
+yarn install
+yarn link horten
+yarn link
+cd ..
+
 cd horten-websocket
 yarn install
 yarn link horten
@@ -23,10 +29,14 @@ yarn install
 yarn link
 cd ..
 
+cd embarkdown
+yarn install
+yarn link
+cd ..
 
 cd horten-control
 yarn install
-yarn link horten deepcolour
+yarn link horten deepcolour embarkdown
 yarn link
 cd ..
 
@@ -44,7 +54,7 @@ cd ..
 
 cd loopin-native
 yarn install
-yarn link loopin
+yarn link loopin horten
 yarn link
 cd ..
 

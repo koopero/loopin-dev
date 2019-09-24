@@ -7,7 +7,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$SCRIPT_DIR"
 cd ..
 
-for PROJECT in 'horten' 'horten-websocket' 'deepcolour' 'horten-control' 'horten-server' 'string2png' 'loopin' 'loopin-native' 'loopin-server' 'loopin-test'
+for PROJECT in 'horten' 'horten-websocket' 'horten-persist-file' 'deepcolour' 'horten-control' 'horten-server' 'string2png' 'loopin' 'loopin-native' 'loopin-server' 'loopin-test'
 do
 cd "$PROJECT"
 git pull
