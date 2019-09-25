@@ -75,3 +75,10 @@ yarn install
 yarn link loopin loopin-native loopin-shaders
 yarn link
 cd ..
+
+
+cd loopin-base
+yarn install
+yarn link loopin loopin-native loopin-shaders loopin-server
+yarn link
+cd ..
