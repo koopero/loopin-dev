@@ -52,3 +52,6 @@
 [submodule "horten-persist-file"]
 	path = horten-persist-file
 	url = https://github.com/koopero/horten-persist-file
+[submodule "loopin-base"]
+	path = loopin-base
+	url = https://github.com/koopero/loopin-base
