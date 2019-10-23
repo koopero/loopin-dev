@@ -55,3 +55,8 @@
 [submodule "loopin-base"]
 	path = loopin-base
 	url = https://github.com/koopero/loopin-base
+	
+[submodule "loopin-starter"]
+	path = loopin-starter
+	branch = master
+	url = https://github.com/koopero/loopin-starter.git
