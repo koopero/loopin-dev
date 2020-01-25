@@ -12,6 +12,12 @@ npm install
 npm link
 cd ..
 
+cd horten-pers
+npm install
+npm link horten
+npm link
+cd ..
+
 cd horten-websocket
 npm install
 npm link horten
@@ -22,7 +28,6 @@ cd deepcolour
 npm install
 npm link
 cd ..
-
 
 cd horten-control
 npm install
@@ -44,7 +49,7 @@ cd ..
 
 cd loopin-native
 npm install
-npm link loopin
+npm link loopin horten
 cd ..
 
 cd loopin-server
@@ -62,5 +67,12 @@ cd ..
 cd loopin-test
 npm install
 npm link loopin loopin-native loopin-shaders
+npm link
+cd ..
+
+
+cd loopin-base
+npm install
+npm link loopin loopin-native loopin-shaders loopin-server
 npm link
 cd ..
