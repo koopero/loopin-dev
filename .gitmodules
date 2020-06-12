@@ -17,7 +17,7 @@
 [submodule "embarkdown"]
 	path = embarkdown
 	branch = master
-	url = https://github.com/koopero/embarkdown
+	url = https://github.com/koopero/embarkdown.git
 [submodule "horten-control"]
 	path = horten-control
 	branch = master
@@ -46,12 +46,13 @@
 	path = loopin-test
 	branch = master
 	url = https://github.com/koopero/loopin-test.git
-[submodule "embarkdown"]
-	path = embarkdown
-	url = https://github.com/koopero/embarkdown
 [submodule "horten-persist-file"]
 	path = horten-persist-file
 	url = https://github.com/koopero/horten-persist-file
 [submodule "loopin-base"]
 	path = loopin-base
 	url = https://github.com/koopero/loopin-base
+[submodule "loopin-starter"]
+	path = loopin-starter
+	branch = master
+	url = https://github.com/koopero/loopin-starter.git
